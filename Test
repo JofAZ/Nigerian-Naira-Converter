@@ -1,0 +1,8 @@
+# importing libraries
+import pandas as pd
+
+User_input1 = input("please enter the USD amount rounded to the nearest dollar without the $:")
+x = int(User_input1)
+y = User_input2 * 446.64
+Print("Your USD is equivalent to {} Nigerian Naira").format (y)
+#print “{} {} is {} years old.“ format(fname, lname, age)
